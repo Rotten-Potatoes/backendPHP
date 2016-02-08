@@ -1,2 +1,2 @@
-# backendPHP
+# Movie Recommender
 Rotten Potatoes
