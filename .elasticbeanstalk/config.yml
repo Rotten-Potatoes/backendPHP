@@ -1,0 +1,11 @@
+branch-defaults:
+  master:
+    environment: MovieRecommender-dev
+    group_suffix: null
+global:
+  application_name: MovieRecommender
+  default_ec2_keyname: null
+  default_platform: PHP 5.4
+  default_region: us-west-2
+  profile: eb-cli
+  sc: git
